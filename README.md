@@ -13,6 +13,49 @@ The purpose of this project is to digitize the internship workflow within an org
 
 ---
 
+## Screenshots
+
+
+### Login Page (Light Mode)
+![Login Light](images/login_page_lightMode.png)
+
+### Login Page (Dark Mode)
+![Login Dark](images/login_page_DarkMode.png)
+
+### Intern Dashboard
+![Dashboard](images/dashboard.png)
+
+### Attendance
+![Attendance](images/attendance.png)
+
+### Daily Tasks
+![Tasks](images/tasks.png)
+
+### Chat Room
+![Chat Room](images/chat_room.png)
+
+### Certificate
+![Certificate](images/certificate.png)
+
+### Intern Profile
+![Profile](images/profile.png)
+
+### Mentor Dashboard
+![Mentor Dashboard](images/Mentor_dashboard.png)
+
+### Check Attendance
+![Check Attendance](images/check_attendance.png)
+
+### All Interns
+![All Interns](images/All_interns.png)
+
+### Certificate Unlock
+![Certificate Unlock](images/certificate_unlock.png)
+
+### Edit Profile
+![Edit Profile](images/Edit%20Profile.png)
+
+
 ## Features
 
 - Secure authentication for interns and mentors
@@ -55,48 +98,6 @@ The purpose of this project is to digitize the internship workflow within an org
 - JavaScript
 
 ---
-
-## Screenshots
-
-
-### Login Page (Light Mode)
-![Login Light](images/login_page_lightMode.png)
-
-### Login Page (Dark Mode)
-![Login Dark](images/login_page_DarkMode.png)
-
-### Intern Dashboard
-![Dashboard](images/dashboard.png)
-
-### Attendance
-![Attendance](images/attendance.png)
-
-### Daily Tasks
-![Tasks](images/tasks.png)
-
-### Chat Room
-![Chat Room](images/chat_room.png)
-
-### Certificate
-![Certificate](images/certificate.png)
-
-### Intern Profile
-![Profile](images/profile.png)
-
-### Mentor Dashboard
-![Mentor Dashboard](images/Mentor_dashboard.png)
-
-### Check Attendance
-![Check Attendance](images/check_attendance.png)
-
-### All Interns
-![All Interns](images/All_interns.png)
-
-### Certificate Unlock
-![Certificate Unlock](images/certificate_unlock.png)
-
-### Edit Profile
-![Edit Profile](images/Edit%20Profile.png)
 
 ## Installation
 
