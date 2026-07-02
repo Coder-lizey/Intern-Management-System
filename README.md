@@ -47,42 +47,59 @@ The purpose of this project is to digitize the internship workflow within an org
 - Laravel
 - PHP
 - MySQL
+- Ajax
 - Blade Template Engine
 - HTML5
 - CSS3
-- Bootstrap
+- Bootstrap+ Tailwind
 - JavaScript
 
 ---
 
 ## Screenshots
+## Screenshots
 
 ### Dashboard
+![Dashboard](images/dashboard.png)
 
-![Dashboard](screenshots/dashboard.png)
+### Login Page (Light Mode)
+![Login Light](images/login_page_light%20Mode.png)
 
-### Attendance Management
+### Login Page (Dark Mode)
+![Login Dark](images/login_page_Dark%20Mode.png)
 
-![Attendance](screenshots/attendance.png)
+### Mentor Dashboard
+![Mentor Dashboard](images/Mentor_dashboard.png)
 
-### Daily Task Submission
+### All Interns
+![All Interns](images/All_interns.png)
 
-![Daily Task](screenshots/daily-task.png)
+### Attendance
+![Attendance](images/attendance.png)
 
-### Weekly Report
+### Check Attendance
+![Check Attendance](images/check_attendance.png)
 
-![Weekly Report](screenshots/weekly-report.png)
+### Daily Tasks
+![Tasks](images/tasks.png)
 
-### Performance Dashboard
+### Chat Room
+![Chat Room](images/chat_room.png)
 
-![Performance](screenshots/performance.png)
+### Intern Profile
+![Intern Profile](images/intern_profile.png)
 
-### Certificate Generation
+### Edit Profile
+![Edit Profile](images/Edit%20Profile.png)
 
-![Certificate](screenshots/certificate.png)
+### Profile
+![Profile](images/profile.png)
 
----
+### Certificate
+![Certificate](images/certificate.png)
 
+### Certificate Unlock
+![Certificate Unlock](images/certificate_unlock.png)
 ## Installation
 
 1. Clone the repository
