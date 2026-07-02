@@ -57,28 +57,19 @@ The purpose of this project is to digitize the internship workflow within an org
 ---
 
 ## Screenshots
-## Screenshots
 
-### Dashboard
-![Dashboard](images/dashboard.png)
 
 ### Login Page (Light Mode)
-![Login Light](images/login_page_light%20Mode.png)
+![Login Light](images/login_page_lightMode.png)
 
 ### Login Page (Dark Mode)
-![Login Dark](images/login_page_Dark%20Mode.png)
+![Login Dark](images/login_page_DarkMode.png)
 
-### Mentor Dashboard
-![Mentor Dashboard](images/Mentor_dashboard.png)
-
-### All Interns
-![All Interns](images/All_interns.png)
+### Intern Dashboard
+![Dashboard](images/dashboard.png)
 
 ### Attendance
 ![Attendance](images/attendance.png)
-
-### Check Attendance
-![Check Attendance](images/check_attendance.png)
 
 ### Daily Tasks
 ![Tasks](images/tasks.png)
@@ -86,20 +77,27 @@ The purpose of this project is to digitize the internship workflow within an org
 ### Chat Room
 ![Chat Room](images/chat_room.png)
 
+### Certificate
+![Certificate](images/certificate.png)
+
 ### Intern Profile
-![Intern Profile](images/intern_profile.png)
+![Profile](images/profile.png)
+
+### Mentor Dashboard
+![Mentor Dashboard](images/Mentor_dashboard.png)
+
+### Check Attendance
+![Check Attendance](images/check_attendance.png)
+
+### All Interns
+![All Interns](images/All_interns.png)
+
+### Certificate Unlock
+![Certificate Unlock](images/certificate_unlock.png)
 
 ### Edit Profile
 ![Edit Profile](images/Edit%20Profile.png)
 
-### Profile
-![Profile](images/profile.png)
-
-### Certificate
-![Certificate](images/certificate.png)
-
-### Certificate Unlock
-![Certificate Unlock](images/certificate_unlock.png)
 ## Installation
 
 1. Clone the repository
